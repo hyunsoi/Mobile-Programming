@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         긴팔 = (RadioButton) findViewById(R.id.긴팔);
         긴바지 = (RadioButton) findViewById(R.id.긴바지);
-        자켓 = (RadioButton) findViewById(R.id.반팔);
+        자켓 = (RadioButton) findViewById(R.id.자켓);
 
         BtnOK = (Button) findViewById(R.id.BtnOK);
 
